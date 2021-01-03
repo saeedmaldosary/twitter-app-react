@@ -1,9 +1,10 @@
-import React, {useState} from 'react';
+import React from 'react';
 import Tweet from './Tweet'
 import './App.css';
 
-function App() {
 
+
+function App() {
 
   return(
     <div className="app">
